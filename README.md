@@ -24,5 +24,5 @@ The `Employee` table includes the following columns:
 | Department  | VARCHAR(100)     | NOT NULL                         | Department to which the employee belongs |
 
 🛠 Technologies Used
-Database: MySQL
-Language: SQL
+# Database: MySQL
+# Language: SQL
